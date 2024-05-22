@@ -8,3 +8,5 @@ para ejecutar el sistema, debes poner
 
 Sistema de registro 2
 intento 4 para ver q sale
+
+prepara nmap para instalacion 
